@@ -48,6 +48,7 @@ require (
 )
 
 //replace github.com/sagernet/sing => ../sing
+replace github.com/sagernet/websocket => github.com/llycoris/websocket v0.0.0-20230128130320-41d5402de4d9
 
 require (
 	github.com/ajg/form v1.5.1 // indirect
